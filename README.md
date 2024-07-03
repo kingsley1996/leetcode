@@ -1,5 +1,8 @@
 LeetCode's Top Interview Questions
 ========
+It includes hundreds of carefully curated problems that show up in actual interviews.
+
+Always updated regularly!
 
 ### Trees and graphs 
 
