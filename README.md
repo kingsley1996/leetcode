@@ -16,4 +16,8 @@ Always updated regularly!
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [JS](./algorithms/numberOfConnectedComponentsInAnUndirectedGraph/numberOfConnectedComponentsInAnUndirectedGraph.js)|Medium|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JS](./algorithms/javascript/maxAreaOfIsland/maxAreaOfIsland.js)|Medium|
 |841|[Keys and rooms](https://leetcode.com/problems/keys-and-rooms/) | [JS](./algorithms/javascript/keysAndRooms/keysAndRooms.js)|Medium|
+|1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [JS](./algorithms/javascript/findIfPathExistsInGraph/findIfPathExistsInGraph.js)|Easy|
+
