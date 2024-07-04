@@ -20,4 +20,5 @@ Always updated regularly!
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JS](./algorithms/javascript/maxAreaOfIsland/maxAreaOfIsland.js)|Medium|
 |841|[Keys and rooms](https://leetcode.com/problems/keys-and-rooms/) | [JS](./algorithms/javascript/keysAndRooms/keysAndRooms.js)|Medium|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [JS](./algorithms/javascript/findIfPathExistsInGraph/findIfPathExistsInGraph.js)|Easy|
+|2368|[Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [JS](./algorithms/javascript/reachableNodesWithRestrictions/reachableNodesWithRestrictions.js)|Medium|
 
